@@ -21,5 +21,10 @@ To run the tests
 
 ```
 lein test
+```
 
+To run the tests continously
+
+```
+lein auto test
 ```
