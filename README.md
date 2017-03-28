@@ -1,14 +1,25 @@
-# roman-numerals
+# Roman Numerals
 
-A Clojure library designed to ... well, that part is up to you.
+The popular kata brought to you in Clojure.
+
+## Pre-requisites 
+
+You must have Java and Leinigen installed.
 
 ## Usage
 
-FIXME
+Master branch is a starter template with the 0 => "" functionality implemented with a test.
 
-## License
+Clone the repo using
 
-Copyright © 2017 FIXME
+```
+git@github.com:emashliles/roman-numerals-clojure.git
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+```
+
+To run the tests
+
+```
+lein test
+
+```
