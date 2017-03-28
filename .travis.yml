@@ -1,9 +1,2 @@
 language: clojure
-install: cd leiningen-core; lein install; lein classpath | tail -n 1 > .lein-bootstrap; cd ..
-sudo: false
-notifications:
-jdk:
-        - openjdk6
-        - openjdk7
-        - oraclejdk7
-        - oraclejdk8
+install: cd leiningen-core; lein install; lein classpath | tail -n 1 > .lein-bootstrap; cd ..;pwd;
