@@ -4,5 +4,4 @@
   "I convert arabic to roman numerals"
   [x]
   (if (= x 0)
-    ""
-    ))
+    ""))
