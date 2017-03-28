@@ -1,4 +1,4 @@
-# Roman Numerals
+# Roman Numerals [![Build Status](https://travis-ci.org/emashliles/roman-numerals-clojure.svg?branch=master)](https://travis-ci.org/emashliles/roman-numerals-clojure)
 
 The popular kata brought to you in Clojure.
 
