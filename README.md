@@ -28,8 +28,3 @@ To run the tests continously
 lein auto test
 ```
 
-To check the formatting run 
-
-```
-lein cljfmt check
-```
